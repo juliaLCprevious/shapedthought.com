@@ -20,7 +20,7 @@ GSMovie movie;
 void setup() {
   size(900, 900, GLConstants.GLGRAPHICS);
 
-  movie = new GSMovie(this, "vex-sequence3.mov");
+  movie = new GSMovie(this, "short.mov");
   movie.loop();
 
   model1 = new OBJModel(this, "Vextapeulous.obj", "relative", TRIANGLES);

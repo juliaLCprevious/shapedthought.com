@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ <meta charset="utf-8">
+<title>heyo</title>
+<script type="text/javascript" src="processing.js"></script>
+<script language= "Javascript">
+    import processing.opengl.*
+    size(screen.width, screen.height, P3D);
+    </script>
+</head>
+  <body>
+  <canvas id="TriangleA" data-processing-sources="TriangleA/TriangleA.pde"></canvas>
+
+  <canvas id="TriangleB" data-processing-sources="TriangleB.pde">       </canvas>
+ </body>
+  </html>

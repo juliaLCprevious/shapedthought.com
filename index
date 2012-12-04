@@ -2,7 +2,7 @@
 <html>
  <head>
  <meta charset="utf-8">
-<title>heyo</title>
+<title>Shape Thought Augments</title>
 <script type="text/javascript" src="processing.js"></script>
 <script language= "Javascript">
     import processing.opengl.*

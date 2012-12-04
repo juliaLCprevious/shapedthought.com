@@ -10,7 +10,7 @@
     </script>
 </head>
   <body>
-  <canvas id="TriangleA" data-processing-sources="TriangleA/TriangleA.pde"></canvas>
+  <canvas id="TriangleA" data-processing-sources="TrianglesA/TrianglesA.pde"></canvas>
 
   <canvas id="TriangleB" data-processing-sources="TriangleB.pde">       </canvas>
  </body>

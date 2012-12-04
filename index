@@ -10,8 +10,6 @@
     </script>
 </head>
   <body>
-  <canvas id="TriangleA" data-processing-sources="TrianglesA.pde"></canvas>
-
   <canvas id="TriangleB" data-processing-sources="TriangleB.pde">       </canvas>
  </body>
   </html>
